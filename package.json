@@ -1,0 +1,19 @@
+{
+  "name": "chess",
+  "version": "0.0.0",
+  "description": "Site for chess online\\offline teaching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScarySkeleton/chess.git"
+  },
+  "author": "Danylo Bilokha (ScarySkeleton)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScarySkeleton/chess/issues"
+  },
+  "homepage": "https://github.com/ScarySkeleton/chess#readme"
+}
