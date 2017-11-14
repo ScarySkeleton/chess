@@ -14,6 +14,10 @@ const links = [
         i: "fa fa-list fa-2x",
     },
     {
+        caption: "Game",
+        i: "fa fa-gamepad"
+    },
+    {
         caption: "History",
         i: "fa fa-bar-chart-o fa-2x",
     }, 
